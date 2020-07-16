@@ -17,5 +17,12 @@
     "psr-4": {
       "Nubix\\LaravelNuke\\": "src/LaravelNuke/"
     }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Nubix\\LaravelNuke\\LaravelNukeServiceProvider"
+      ]
+    }
   }
 }
