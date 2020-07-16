@@ -15,7 +15,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Nubix\\LaravelNuke\\": "src/LaravelNuke/"
+      "Nubix\\LaravelNuke\\": "src/"
     }
   },
   "extra": {
