@@ -1,6 +1,6 @@
 <?php
 
-namespace Nubix\LumenGenerator;
+namespace Nubix\LaravelNuke;
 
 use Illuminate\Support\ServiceProvider;
 use Nubix\LaravelNuke\Console\Commands\NukeCommand;
