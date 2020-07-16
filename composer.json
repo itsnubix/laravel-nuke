@@ -1,0 +1,21 @@
+{
+  "name": "itsnubix/laravel-nuke",
+  "description": "Clear application, view and config cache with one command",
+  "type": "library",
+  "require": {
+    "illuminate/support": "^5.5|^6.0|^7.0",
+    "illuminate/console": "^5.5|^6.0|^7.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kyle Milloy",
+      "email": "kmilloy@nubix.ca"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Nubix\\LaravelNuke\\": "src/LaravelNuke/"
+    }
+  }
+}
